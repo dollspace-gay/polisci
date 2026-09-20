@@ -1,0 +1,34 @@
+[
+  {
+    "start": 1950,
+    "n": 88,
+    "vdem_start": 22,
+    "vdem_end": 54,
+    "br_start": 33,
+    "br_end": 60
+  },
+  {
+    "start": 1975,
+    "n": 135,
+    "vdem_start": 34,
+    "vdem_end": 72,
+    "br_start": 39,
+    "br_end": 79
+  },
+  {
+    "start": 2000,
+    "n": 164,
+    "vdem_start": 83,
+    "vdem_end": 84,
+    "br_start": 89,
+    "br_end": 93
+  },
+  {
+    "start": 2010,
+    "n": 167,
+    "vdem_start": 91,
+    "vdem_end": 85,
+    "br_start": 97,
+    "br_end": 94
+  }
+]

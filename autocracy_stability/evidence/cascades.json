@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Conditional willingness without an initial participant",
+    "seed": 0,
+    "unseeded_thresholds": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "population": 4,
+    "trajectory": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "response_changes_at": null,
+    "status": "synthetic illustration; irreversible participation; no calibration"
+  },
+  {
+    "name": "Spontaneous cascade",
+    "seed": 0,
+    "unseeded_thresholds": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "population": 4,
+    "trajectory": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      4
+    ],
+    "response_changes_at": null,
+    "status": "synthetic illustration; irreversible participation; no calibration"
+  },
+  {
+    "name": "One of four people is now a permanent seed",
+    "seed": 1,
+    "unseeded_thresholds": [
+      1,
+      1,
+      1
+    ],
+    "population": 4,
+    "trajectory": [
+      1,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "response_changes_at": null,
+    "status": "synthetic illustration; irreversible participation; no calibration"
+  },
+  {
+    "name": "Change only the first threshold",
+    "seed": 0,
+    "unseeded_thresholds": [
+      4,
+      1,
+      2,
+      3
+    ],
+    "population": 4,
+    "trajectory": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "response_changes_at": null,
+    "status": "synthetic illustration; irreversible participation; no calibration"
+  },
+  {
+    "name": "Hypothetical accommodation after two rounds",
+    "seed": 0,
+    "unseeded_thresholds": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "population": 4,
+    "trajectory": [
+      0,
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "response_changes_at": 2,
+    "status": "synthetic illustration; irreversible participation; no calibration"
+  }
+]

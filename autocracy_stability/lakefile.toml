@@ -1,0 +1,6 @@
+name = "autocracy_stability"
+version = "0.1.0"
+defaultTargets = ["AutocracyStability"]
+
+[[lean_lib]]
+name = "AutocracyStability"

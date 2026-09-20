@@ -1,0 +1,14 @@
+{
+  "retrieved": "2026-09-20",
+  "regimes.csv": {
+    "url": "https://ourworldindata.org/grapher/political-regime.csv?v=1&csvType=full&useColumnShortNames=false",
+    "description": "V-Dem v16, processed by OWID",
+    "sha256": "1e0d045bc702591c95c9885a6dbe5e8bed13bcca9b2a236464caa7c6098851ff"
+  },
+  "br.xlsx": {
+    "url": "https://docs.google.com/spreadsheets/d/17Ai0fwbPO4V7wAvUBcMQb4RQRf2XUlt1/export?format=xlsx",
+    "description": "Bj\u00f8rnskov\u2013Rode v7.2 from author site",
+    "sha256": "e7a352c41f70219f4e5db158bf1c1976f34a63ce0dbe6a04defb5986421f62ee"
+  },
+  "python": "3.12.14"
+}
